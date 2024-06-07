@@ -46,7 +46,7 @@ as example queries. I will include the Intacct and Mcleod Postman collections be
 
 **[Python Download](https://www.python.org/downloads/)**
 
-Python is the programming language of choice for the Interject API server. If you are not familiar with Python (I'd hope so), then
+Python is the programming language of choice for the Interject API server. If you are not familiar with Python (I'd hope you are), then
 you must download the Python interpreter onto your machine in order to execute Python code.
 
 ## Python Packages
