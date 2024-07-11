@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Environment Setup
+slug: /
 ---
 
 How to setup your development environment to build using the Interject API
@@ -30,6 +31,14 @@ bugs are a nightmare even with the debugger.
 You will need the Interject add-in for Excel in order to build and pull your data.
 Yes. This is documentation that links to documentation. Hey Siri, what's recursion?
 
+## Git
+
+**[Git Bash Download](https://git-scm.com/downloads)**
+
+If you are using Windows, you will need to download git to your machine via the above link.
+On Linux, this should be a default installation and accessible through the shell.
+
+
 ## Postman
 
 **[Postman Download](https://www.postman.com/downloads/)**
@@ -52,4 +61,3 @@ you must download the Python interpreter onto your machine in order to execute P
 ## Python Packages
 
 There will be a requirements.txt file inside of the project directory that details all the required packages.
-
