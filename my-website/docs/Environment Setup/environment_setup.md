@@ -12,7 +12,7 @@ How to setup your development environment to build using the Interject API
 [GitHub Download](https://github.com/kipland-m/BGSCS-InterjectAPI)**
 
 **Fresh SDK |
-[GitHub Download](https://github.com/kipland-m/Interject_AP)**
+[GitHub Download](https://github.com/kipland-m/Interject_API)**
 
 This GitHub repository contains everything necessary to get the Interject API server up and running. This includes a lot of controllers that I have written myself that are communicating with different softwares.
 
