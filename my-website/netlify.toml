@@ -1,0 +1,7 @@
+[build]
+  publish = "build" # Or wherever your built Docusaurus files are located (e.g., "build" or "dist")
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
