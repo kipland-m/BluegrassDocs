@@ -30,3 +30,11 @@ This is adding your newly generated local key to your GitHub account! After this
 ## Cloning
 Next, you should navigate to the remote repository that contains the Interject project.
 
+![git_ssh](../images/git_ssh.png)
+
+Use `git clone git@github.com:kipland-m/BGSCS-InterjectAPI.git` to download the repository.
+It is important that you use the SSH link. If it gives an error, there may be an issue with the authentication covered in the previous paragraph.
+
+This will download the repository into a folder with the name of the repo, and will automatically handle initializing git.
+Once you successfully clone the repo, you are ready to develop and make changes/additions with your common `git add` `git commit` `git push` workflow.
+
